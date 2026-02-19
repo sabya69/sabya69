@@ -28,6 +28,10 @@
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-## 📊 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sabya69&theme=tokyo-night)
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sabyasachi%20Das%20Biswas-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sabyasachi-das-biswas-a795b8245/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-sabya.py-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/sabya.py/)
+
 
