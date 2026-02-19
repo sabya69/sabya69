@@ -1,16 +1,23 @@
-## Hi there 👋
+## 🛠 Tech Stack
 
-<!--
-**sabya69/sabya69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Programming
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Web Development
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+
+---
+
+### 🤖 Machine Learning
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn)
+![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv)
