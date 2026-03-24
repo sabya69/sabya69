@@ -1,16 +1,10 @@
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">Hi 👋, I'm Sabyasachi Das Biswas</h1>
-<h3 align="center">💻 DSA Enthusiast • 🌐 Full Stack Developer • 🤖 Machine Learning Learner</h3>
+<h3 align="center">🌐 Full Stack Developer • 🤖 Machine Learning Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=DSA+Learner;Web+Developer;Machine+Learning+Explorer;Open+Source+Enthusiast&center=true&width=500&height=45">
-</p>
-
-<p align="center">
-  <a href="https://github.com/sabya69">
-    <img src="https://komarev.com/ghpvc/?username=sabya69&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Machine+Learning+Explorer;Open+Source+Enthusiast;Building+Real+World+Projects&center=true&width=500&height=45">
 </p>
 
 ---
@@ -18,10 +12,10 @@
 ## 👨‍💻 About Me
 
 🎓 Computer Science Student at **Tripura University**  
-💡 Passionate about **Data Structures & Algorithms** and **Web Development**  
-🤖 Currently exploring **Machine Learning & Computer Vision**  
-⚙️ Building real-world backend & AI projects  
-🚀 Always learning and improving problem-solving skills  
+💻 Passionate about **Web Development & Backend Systems**  
+🤖 Exploring **Machine Learning & Computer Vision**  
+⚙️ Building real-world projects and scalable applications  
+🚀 Continuously learning new technologies  
 
 ---
 
@@ -86,10 +80,10 @@
 
 ## 🚀 Current Focus
 
-- 📚 Advanced Data Structures & Algorithms
 - 🌐 Full Stack Development (MERN)
-- 🤖 Computer Vision Projects
-- ⚡ Backend System Design
+- 🤖 Machine Learning Projects
+- ⚡ Backend Development
+- 🧠 Problem Solving & System Design
 
 ---
 
