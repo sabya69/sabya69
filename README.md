@@ -1,5 +1,31 @@
+<!-- ================= HEADER ================= -->
+
 <h1 align="center">Hi 👋, I'm Sabyasachi Das Biswas</h1>
-<h3 align="center">🚀 DSA Enthusiast | Web Developer | Machine Learning Learner</h3>
+<h3 align="center">💻 DSA Enthusiast • 🌐 Full Stack Developer • 🤖 Machine Learning Learner</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=DSA+Learner;Web+Developer;Machine+Learning+Explorer;Open+Source+Enthusiast&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+  <a href="https://github.com/sabya69">
+    <img src="https://komarev.com/ghpvc/?username=sabya69&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+🎓 Computer Science Student at **Tripura University**  
+💡 Passionate about **Data Structures & Algorithms** and **Web Development**  
+🤖 Currently exploring **Machine Learning & Computer Vision**  
+⚙️ Building real-world backend & AI projects  
+🚀 Always learning and improving problem-solving skills  
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sabyasachi-das-biswas-a795b8245/">
@@ -12,41 +38,29 @@
 
 ---
 
-## 🚀 About Me
-
-- 🎓 Student at **Tripura University**
-- 💻 Passionate about **DSA & Web Development**
-- 🤖 Exploring **Machine Learning & Computer Vision**
-- 🌱 Currently learning **Backend Development & AI**
-- ⚡ Love building real-world projects
-
----
-
-## 🔥 GitHub Streak Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sabya69&theme=tokyonight&hide_border=true&border_radius=5" />
+  <img src="https://streak-stats.demolab.com?user=sabya69&theme=tokyonight&hide_border=true&border_radius=8"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabya69&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabya69&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sabya69&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabya69&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
 ## 🛠 Tech Stack
 
-### 👨‍💻 Programming
+### 👨‍💻 Programming Languages
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-
----
 
 ### 🌐 Web Development
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
@@ -55,35 +69,30 @@
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 
----
-
 ### 🤖 Machine Learning
 ![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn)
 ![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv)
 
----
-
-### 🗄️ Databases
+### 🗄 Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
----
-
-### ⚙️ Backend & Tools
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Current Focus
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sabyasachi%20Das%20Biswas-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sabyasachi-das-biswas-a795b8245/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-sabya.py-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/sabya.py/)
+- 📚 Advanced Data Structures & Algorithms
+- 🌐 Full Stack Development (MERN)
+- 🤖 Computer Vision Projects
+- ⚡ Backend System Design
 
 ---
 
-⭐️ From [sabya69](https://github.com/sabya69)
+<p align="center">
+  ⭐️ <b>Thanks for visiting my profile!</b> ⭐️
+</p>
