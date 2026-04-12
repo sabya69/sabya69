@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science Student at **Tripura University**  
+🎓 Computer Science Student  
 💻 Passionate about **Web Development & Backend Systems**  
 🤖 Exploring **Machine Learning & Computer Vision**  
 ⚙️ Building real-world projects and scalable applications  
